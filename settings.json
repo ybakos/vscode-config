@@ -6,6 +6,8 @@
     "workbench.iconTheme": "vs-minimal",
     "workbench.colorTheme": "Tomorrow Night",
     "editor.fontSize": 16,
+    "workbench.editor.closeEmptyGroups": false,
+    "workbench.startupEditor": "newUntitledFile",
     "workbench.colorCustomizations": {
         "[Tomorrow Night]": {
             "titleBar.activeBackground": "#292929",
@@ -51,8 +53,11 @@
             "terminal.ansiWhite":"#C5C8C6",
             "terminal.ansiYellow":"#F0C674",
             "statusBar.background" : "#000000",
+            "statusBar.debuggingBackground": "#718c00",
+            "statusBar.debuggingForeground": "#FFF",
             "statusBar.foreground" : "#999",
-           },
-        "dart.closingLabels": "#444",
+            "dart.closingLabels": "#444",  
+        },
+
     },
 }
