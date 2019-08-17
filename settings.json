@@ -8,8 +8,10 @@
     "editor.fontSize": 16,
     "workbench.editor.closeEmptyGroups": false,
     "workbench.startupEditor": "newUntitledFile",
+    // "editor.rulers": [76, 80],
     "workbench.colorCustomizations": {
         "[Tomorrow Night]": {
+            "editorRuler.foreground": "#2e1300",
             "titleBar.activeBackground": "#292929",
             "titleBar.activeForeground": "#999",
             "activityBar.background": "#000",
