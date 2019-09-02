@@ -9,6 +9,9 @@
     "workbench.editor.closeEmptyGroups": false,
     "workbench.startupEditor": "newUntitledFile",
     // "editor.rulers": [76, 80],
+    "[ruby]": {
+        "editor.tabSize": 2
+    },
     "workbench.colorCustomizations": {
         "[Tomorrow Night]": {
             "editorRuler.foreground": "#2e1300",
